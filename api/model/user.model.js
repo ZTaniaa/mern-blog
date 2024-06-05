@@ -19,7 +19,7 @@ const userSchema = new mongoose.Schema({
     },
     profilePicture: {
         type: String,
-        default: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fdefault-profile-picture&psig=AOvVaw3ciu8lAvhDn5TsX99WdHwl&ust=1717497679504000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjtw8ufv4YDFQAAAAAdAAAAABAE",
+        default: "https://static.vecteezy.com/system/resources/previews/036/280/650/original/default-avatar-profile-icon-social-media-user-image-gray-avatar-icon-blank-profile-silhouette-illustration-vector.jpg",
     },
     isAdmin: {
         type: Boolean,
