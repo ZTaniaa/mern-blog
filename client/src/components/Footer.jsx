@@ -58,7 +58,7 @@ export default function FooterComponent() {
                                     Privacy Policy
                                 </Footer.Link>
                                 <Footer.Link href="#">
-                                    Tems &amp; Conditions
+                                    Terms &amp; Conditions
                                 </Footer.Link>
                             </Footer.LinkGroup>
                         </div>
