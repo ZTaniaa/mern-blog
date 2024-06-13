@@ -18,14 +18,14 @@ export default function Home() {
                 <h1 className="text-3xl font-bold lg:text-6xl ">
                     Welcome to my Blog
                 </h1>
-                <p className="text-gray0500 text-sm sm:text-md">
+                <p className="text-gray0500 text-md">
                     Here you'll find a variety of articles and tutorial on
                     topics such as web development, software engineering, and
                     programming languages.
                 </p>
                 <Link
                     to="/search"
-                    className="text-sm sm:text-md text-teal-500 font-bold hover:underline"
+                    className="text-md text-teal-500 font-bold hover:underline"
                 >
                     View all posts
                 </Link>
